@@ -1,16 +1,15 @@
 {
   "index.html": {
-    "file": "assets/index.81f93550.js",
+    "file": "assets/index.44bacc08.js",
     "src": "index.html",
     "isEntry": true,
     "imports": [
-      "_vendor.1521b314.js"
+      "_vendor.cf4a4808.js"
     ],
     "css": [
       "assets/index.53db972e.css"
     ],
     "assets": [
-      "assets/penganten.c0d4c61f.jpeg",
       "assets/Until I Found You - Stephen Sanchez - Cover (Violin).42c7382a.mp3",
       "assets/contoh1.e7fe00ff.jpeg",
       "assets/ld.daf09165.png",
@@ -43,7 +42,7 @@
       "assets/image 3.47736bf1.png"
     ]
   },
-  "_vendor.1521b314.js": {
-    "file": "assets/vendor.1521b314.js"
+  "_vendor.cf4a4808.js": {
+    "file": "assets/vendor.cf4a4808.js"
   }
 }
