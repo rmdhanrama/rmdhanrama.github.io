@@ -1,0 +1,49 @@
+{
+  "index.html": {
+    "file": "assets/index.81f93550.js",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vendor.1521b314.js"
+    ],
+    "css": [
+      "assets/index.53db972e.css"
+    ],
+    "assets": [
+      "assets/penganten.c0d4c61f.jpeg",
+      "assets/Until I Found You - Stephen Sanchez - Cover (Violin).42c7382a.mp3",
+      "assets/contoh1.e7fe00ff.jpeg",
+      "assets/ld.daf09165.png",
+      "assets/icon.a5138aef.png",
+      "assets/leaf-green-top-left.06318eed.png",
+      "assets/leaf-green-top-right.3f3c6453.png",
+      "assets/leaf-green-bottom-left.37fb307e.png",
+      "assets/leaf-green-bottom-right.ab4cb07a.png",
+      "assets/placeholder.3f5057d3.png",
+      "assets/pose1-flipped.a93bca77.svg",
+      "assets/pose2-flipped.5c784228.svg",
+      "assets/BACKGROUND_LEAVES_WATERCOLOR-01-Vertical-scaled.e96605e9.jpg",
+      "assets/white-art-paper-background.bf88fe2c.jpg",
+      "assets/penganten.1dfa1c45.jpg",
+      "assets/leaf-title.0823ccf1.png",
+      "assets/watercolor-flower-2.8b8155e4.png",
+      "assets/pngegg (2).9e99edde.png",
+      "assets/pngegg (1).7c1dce99.png",
+      "assets/leaf-center.4047b9da.png",
+      "assets/landing-rev-bottom-img-7.c7a92127.png",
+      "assets/landing-rev-top-img-10.31b67598.png",
+      "assets/landing-rev-bottom-img-4.eceda4a7.png",
+      "assets/eucalyptus-watercolor-top.2b4b95ac.png",
+      "assets/eucalyptus-watercolor-bottom.d67f7d01.png",
+      "assets/landing-rev-bottom-img-6.4e855108.png",
+      "assets/landing-rev-bottom-img-8.0acab154.png",
+      "assets/watercolor-flower-1.5c00cae2.png",
+      "assets/watercolor-flower-3.3507ce04.png",
+      "assets/frame-rustic.fd13105c.png",
+      "assets/image 3.47736bf1.png"
+    ]
+  },
+  "_vendor.1521b314.js": {
+    "file": "assets/vendor.1521b314.js"
+  }
+}
